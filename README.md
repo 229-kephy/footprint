@@ -66,6 +66,7 @@ Cet outil est destiné à un usage **éducatif** et dans le cadre de :
 - Bug bounty programs
 - CTF (Capture The Flag)
 - Ton propre infrastructure
+- Travaux dirigés
 
 **Toute utilisation non autorisée est illégale.**
 
